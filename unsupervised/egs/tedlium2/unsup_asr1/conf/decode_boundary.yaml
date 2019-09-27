@@ -1,0 +1,3 @@
+boundary-weigh: 0.5
+boundary-threshold: 0.007
+boundary-type: "up"

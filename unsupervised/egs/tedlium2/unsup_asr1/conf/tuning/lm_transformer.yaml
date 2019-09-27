@@ -1,0 +1,11 @@
+batchsize: 128
+dropout: 0.1
+epoch: 100
+layer: 4
+maxlen: 250
+opt: sgd
+patience: 0
+sortagrad: 0
+unit: 1024
+att-unit: 256
+model-module: transformer
